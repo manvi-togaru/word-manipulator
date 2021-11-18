@@ -1,0 +1,24 @@
+.heading{
+    width:100%;
+    font-size: 25;
+    margin:0px;
+    box-shadow:5px 5px 5px rebeccapurple
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(142, 67, 155);
+    bottom: 0;
+    width:100%;
+    background-color: thistle;
+    line-height: 3;
+    font-size: 20;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+
+canvas{
+border: 5px ridge rgb(137, 88, 156);
+
+}
